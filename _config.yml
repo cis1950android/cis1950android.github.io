@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: CIS1950-201
+title: CIS 1950-201
 tagline: A Jekyll template for course websites
 description: Learn native Android development in Kotlin
 author: Ali Krema
-baseurl: ''
-url: 'https://cis1950android.github.io' # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: ""
+url: "https://cis1950android.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
@@ -29,9 +29,9 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   Kevin Lin:
-    - 'https://kevinl.info'
+    - "https://kevinl.info"
   Just the Class on GitHub:
-    - 'https://github.com/kevinlin1/just-the-class'
+    - "https://github.com/kevinlin1/just-the-class"
 footer_content:
 
 # Collections for website data
@@ -43,25 +43,25 @@ collections:
 # Default layouts for each collection type
 defaults:
   - scope:
-      path: ''
+      path: ""
       type: staffers
     values:
       layout: staffer
       height: 300
-      subpath: '/assets/images/'
+      subpath: "/assets/images/"
       width: 300
   - scope:
-      path: ''
+      path: ""
       type: modules
     values:
       layout: module
   - scope:
-      path: ''
+      path: ""
       type: schedules
     values:
       layout: schedule
   - scope:
-      path: ''
+      path: ""
       type: announcements
     values:
       layout: announcement
