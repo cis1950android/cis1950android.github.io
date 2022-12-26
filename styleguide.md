@@ -8,7 +8,7 @@ The official style guide of CIS1950-201: Android Development in Kotlin. Please s
 
 ### Syntax
 
-- Classes & Interfaces &rarr; UpperCamelCase. For example: `StudentCalendar`
+- Classes & Interfaces &rarr; UpperCamelCase. For example: `StudentCalendar()`
 - Methods (functions) &rarr; lowerCamelCase. For example: `saveReminder()`
 - Variables &rarr; lowerCamelCase. For example: `val studentName = "Natalie"`
 - Constant Variables &rarr; upper case, separated by underscores. For example: `const val BALL_RADIUS = 5f`
