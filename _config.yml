@@ -23,15 +23,15 @@ exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.4.0.rc3
-color_scheme: light
+color_scheme: dark
 search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  Kevin Lin:
-    - "https://kevinl.info"
-  Just the Class on GitHub:
-    - "https://github.com/kevinlin1/just-the-class"
+  Ed:
+    - "https://edstem.org/us/dashboard"
+  Gradescope:
+    - "https://www.gradescope.com/courses/480677"
 footer_content:
 
 # Collections for website data
