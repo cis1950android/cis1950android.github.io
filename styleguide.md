@@ -176,7 +176,7 @@ when(input) {
 - Only use `var` if you know the variable will change
 - Rule of thumb: declare everything as `val`, switch to `var` if you needed to change it later
 
-### Nullabele Types
+### Nullable Types
 
 - It is preferred to declare variables and funciton return types as nullable `?` where a `null` value can take place
 - Use `!!` as a last resort _if and only if_ you are 100% sure the variable will be defined beforehand (e.g. a view that WILL be initialized in `onCreate`)

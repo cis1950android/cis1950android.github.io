@@ -1,18 +1,20 @@
 ---
 layout: page
-title: About
+title: Syllabus
 description: >-
-    Course policies and information.
+  Course syllabus
 ---
 
 # About
+
 {:.no_toc}
 
 ## Table of contents
+
 {: .no_toc .text-delta }
 
 1. TOC
-{:toc}
+   {:toc}
 
 ---
 
@@ -31,3 +33,7 @@ Lacus viverra vitae congue eu. Suspendisse in est ante in nibh mauris cursus mat
 ## Assignments
 
 Vehicula ipsum a arcu cursus vitae congue. Etiam dignissim diam quis enim lobortis scelerisque fermentum dui. Risus sed vulputate odio ut enim blandit. Aliquam id diam maecenas ultricies mi eget. Id consectetur purus ut faucibus pulvinar elementum integer enim neque. Eget mi proin sed libero enim sed faucibus. Sem integer vitae justo eget magna fermentum iaculis. In mollis nunc sed id semper risus in. Sit amet risus nullam eget felis eget. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget. Nascetur ridiculus mus mauris vitae ultricies leo integer malesuada. Porta non pulvinar neque laoreet suspendisse interdum consectetur libero id. At varius vel pharetra vel turpis nunc eget. Scelerisque purus semper eget duis at tellus.
+
+## More
+
+bero enim sed faucibus. Sem integer vitae justo eget magna fermentum iaculis. In mollis nunc sed id semper risus in. Sit amet risus nullam eget felis eget. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget. Nascetur ridiculus mus mauris vitae ultricies leo integer malesuada. Porta non pulvinar neque laoreet suspendisse interdum consec
