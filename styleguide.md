@@ -100,8 +100,7 @@ The official style guide of CIS1950-201: Android Development in Kotlin. Please s
 
 ### Comments
 
-- _Clear any ambiguity, avoid all repetition_
-- Do not comment every line of a function, use function documentation (above) instead.
+    Clear ambiguity, avoid repetition
 
 ### Curly Braces
 
