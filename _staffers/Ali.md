@@ -2,7 +2,7 @@
 name: Ali Krema
 role: Instructor
 email: krema@seas.upenn.edu
-photo: Ali.jpg
+photo: ali.jpg
 ---
 
 [Schedule an appointment](#){: .btn .btn-outline }

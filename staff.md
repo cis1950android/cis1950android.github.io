@@ -6,7 +6,7 @@ description: A listing of all the course staff members.
 
 # Staff
 
-Staff information is stored in the `_staffers` directory and rendered according to the layout file, `_layouts/staffer.html`.
+The team you will be closely working with throughout the semester. Our #1 objective here is to serve you and ensure you have a good time. Let's keep that in mind :)
 
 ## Instructors
 
