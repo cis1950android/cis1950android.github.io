@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: CIS 1950-201
+title: CIS 1950
 tagline: A Jekyll template for course websites
 description: Learn native Android development in Kotlin
 author: Ali Krema
@@ -23,7 +23,7 @@ exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.4.0.rc3
-color_scheme: light
+color_scheme: dark
 search_enabled: true
 heading_anchors: true
 permalink: pretty
