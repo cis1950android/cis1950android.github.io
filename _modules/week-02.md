@@ -8,4 +8,4 @@ Class Content
 
 Resources
 : [Kotlin Playground](#)
-: **HW 1 Released**{: .label .label-green }
+: **HW 0 Released**{: .label .label-green }
