@@ -1,8 +1,7 @@
 ---
-name: Evil Kevin
+name: Natalie Ho
 role: Teaching Assistant
 email: me@example.com
-website: https://kevinl.info
 photo: kevin.jpg
 ---
 
