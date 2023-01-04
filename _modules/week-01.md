@@ -8,3 +8,4 @@ Lecture
 
 Resources
 : [Install Android Studio - Official Docs](#)
+  : **Schedule your one-on-one with Ali**{: .label .label-green }
