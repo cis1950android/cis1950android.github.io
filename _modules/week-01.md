@@ -2,9 +2,9 @@
 title: Week 1 - Jan 12
 ---
 
-Class Content
+Lecture
 : [Introduction to Android Studio](#)
-: [In-class Coding](#)
+  : [In-class Coding](#)
 
 Resources
 : [Install Android Studio - Official Docs](#)

@@ -1,6 +1,6 @@
 ---
 layout: home
-title: CIS 1950-201
+title: CIS1950
 nav_exclude: true
 permalink: /:path/
 seo:
@@ -8,7 +8,7 @@ seo:
   name: Android Development in Kotlin
 ---
 
-# **CIS 1950 - Android Development in Kotlin**
+# **CIS1950 - Android Development in Kotlin**
 
 ## <span style="color:grey"> Spring 2023 with Ali Krema </span>
 
