@@ -35,7 +35,6 @@ The official style guide of CIS1950-201: Android Development in Kotlin. Please s
 - Methods (functions) &rarr; MUST start with a verb or `onAction` syntax.
 
   ```kotlin
-
    // Example:
    // 1. a function that does something after the name is saved
    // 2. a function saves student name into database
