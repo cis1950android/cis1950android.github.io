@@ -19,7 +19,7 @@ timeline:
 schedule:
   - name: Monday
     events:
-      - name: Ali's Office Hours
+      - name: Ali Office Hours
         start: 12:00 PM
         end: 2:00 PM
         location: Levine 612
