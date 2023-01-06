@@ -8,4 +8,4 @@ Lecture
 
 Resources
 : [Install Android Studio - Official Docs](#)
-  : **Schedule your one-on-one**{: .label .label-green }
+  : [**Schedule your one-on-one**](https://calendly.com/alikrema/one-on-one){: .label .label-green }
