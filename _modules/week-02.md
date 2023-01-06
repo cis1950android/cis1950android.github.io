@@ -8,4 +8,4 @@ Lecture
 
 Resources
 : [Kotlin Playground](#)
-  : [**HW 0 Released**](styleguide){: .label .label-green }
+  : [**HW 0 Released**](#){: .label .label-green }
