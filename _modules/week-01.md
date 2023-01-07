@@ -1,11 +1,11 @@
 ---
-title: Week 1 - Jan 12
+title: Week 1 - Jan 19
 ---
 
 Lecture
-: [Introduction to Android Studio](#)
+: [Kotlin Overview](#)
   : [In-class Coding](#)
 
 Resources
-: [Install Android Studio - Official Docs](#)
-  : [**Schedule your one-on-one**](https://calendly.com/alikrema/one-on-one){: .label .label-green }
+: [Kotlin Playground](#)
+  : [**HW 0 Released**](#){: .label .label-green }

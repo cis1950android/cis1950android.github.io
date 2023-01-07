@@ -1,11 +1,11 @@
 ---
-title: Week 2 - Jan 19
+title: Week 2 - Jan 26
 ---
 
 Lecture
-: [Kotlin Overview](#)
+: [UI Design Part 1](#)
   : [In-class Coding](#)
 
 Resources
-: [Kotlin Playground](#)
-  : [**HW 0 Released**](#){: .label .label-green }
+: . . .
+  : . . .
