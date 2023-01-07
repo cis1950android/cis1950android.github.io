@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Homepage
+title: Home page
 nav_exclude: false
 permalink: /:path/
 seo:
