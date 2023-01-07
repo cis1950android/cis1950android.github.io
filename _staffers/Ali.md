@@ -1,6 +1,7 @@
 ---
 name: Ali Krema
 role: Instructor
+photo: ali.jpg
 email: krema@seas.upenn.edu
 ---
 
