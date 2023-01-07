@@ -39,7 +39,7 @@ schedule:
       - name: Lecture
         start: 3:30 PM
         end: 5:00 PM
-        location: TBD
+        location: Towne 315
       - name: Ali Office Hours
         start: 5:30 PM
         end: 7:30 PM
