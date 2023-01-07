@@ -1,5 +1,5 @@
 ---
-title: Week 2 - Feb 2
+title: Week 3 - Feb 2
 ---
 
 Lecture
