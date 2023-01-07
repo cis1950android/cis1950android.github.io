@@ -1,7 +1,7 @@
 ---
 layout: home
 title: CIS1950
-nav_exclude: true
+nav_exclude: false
 permalink: /:path/
 seo:
   type: Course
