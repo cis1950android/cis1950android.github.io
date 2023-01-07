@@ -4,7 +4,7 @@ title: Staff
 description: A listing of all the course staff members.
 ---
 
-# Staff
+# **Staff**
 
 The team you will be closely working with throughout the semester. Our #1 objective here is to serve you and ensure you have a good time. Let's keep that in mind :)
 

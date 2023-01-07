@@ -4,7 +4,7 @@ title: Schedule
 description: Listing of course modules and topics.
 ---
 
-# Weekly Schedule
+# **Weekly Schedule**
 
 {% for module in site.modules %}
 {{ module }}

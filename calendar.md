@@ -4,7 +4,7 @@ title: Calendar
 description: The weekly event schedule.
 ---
 
-# Course Calendar
+# **Course Calendar**
 
 {% for schedule in site.schedules %}
 {{ schedule }}
