@@ -1,6 +1,6 @@
 ---
 layout: home
-title: CIS1950
+title: Homepage
 nav_exclude: false
 permalink: /:path/
 seo:
@@ -19,6 +19,11 @@ seo:
 ## Grading 
 
 - Homework Assignments - 60%
+  - HW0: 7.5%
+  - HW1: 10%
+  - HW2: 12.5%
+  - HW3: 15%
+  - HW4: 15%
 - Final Project - 30%
 - Attendance & Participation - 10%
 
