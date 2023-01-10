@@ -16,17 +16,6 @@ seo:
 
 > Through exploring the very basics all the way through layout design and user interface development to app architecture and connectivity, you'll gain a comprehensive understanding of the Android ecosystem and all that it has to offer. Whether you are a beginner or had some previous experience in Android (or never even had an Android device yourself), this course has something to offer for everyone.
 
-## Grading 
-
-- Homework Assignments - 60%
-  - HW0: 7.5%
-  - HW1: 10%
-  - HW2: 12.5%
-  - HW3: 15%
-  - HW4: 15%
-- Final Project - 30%
-- Attendance & Participation - 10%
-
 ## Course Policies
 
 ### Attendance
@@ -43,3 +32,14 @@ For the final project, we will keep the deadline firm for now and assume no exte
 
 Homework assignments are to be completed **individually**. No code should ever be shared/copied among students, but you are free to discuss high-level ideas and request group office hours as well. The class is very hands-on and it is designed so that you can learn without ever needing to cheat. You can have our word for it. You have plenty of office hours, unlimited resources online that you can consult without directly copying code. 
 
+
+### Grading 
+
+- Homework Assignments - 60%
+  - HW0: 7.5%
+  - HW1: 10%
+  - HW2: 12.5%
+  - HW3: 15%
+  - HW4: 15%
+- Final Project - 30%
+- Attendance & Participation - 10%
