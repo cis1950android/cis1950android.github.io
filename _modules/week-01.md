@@ -7,5 +7,5 @@ Lecture
   : [In-class Coding](#)
 
 Resources
-: [Kotlin Playground](#)
+: [Kotlin Playground](https://developer.android.com/training/kotlinplayground)
   : [**HW 0 Released**](#){: .label .label-green }
