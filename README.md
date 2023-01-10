@@ -2,6 +2,7 @@
 layout: home
 title: Home Page
 nav_exclude: false
+nav_order: 1
 permalink: /:path/
 seo:
   type: Course

@@ -1,3 +1,10 @@
+---
+layout: page
+title: Kotlin Style Guide
+nav_order: 4
+description: A listing of all the course staff members.
+---
+
 # **Kotlin Style Guide**
 
 The official style guide of CIS1950-201: Android Development in Kotlin. Please stick to this guide when writing code for your homeworks and projects. Consistency is key for a clean, readable code.
