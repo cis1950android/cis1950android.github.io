@@ -1,7 +1,8 @@
 ---
 layout: page
 title: HW0
-parent: ../homeworks
+parent: homeworks
 ---
 
-this is hw0
+# Homework0
+{: .no_toc }
