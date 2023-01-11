@@ -2,7 +2,7 @@
 layout: default
 title: HW0
 parent: homeworks
-nav_order: 6
+nav_order: 6gi
 ---
 
 # Color Utilities
