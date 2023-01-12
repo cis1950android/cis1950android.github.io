@@ -1,7 +1,7 @@
 ---
 layout: default
 title: HW0
-parent: homeworks
+parent: Homeworks
 nav_order: 6
 ---
 
