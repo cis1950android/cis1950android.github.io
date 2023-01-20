@@ -8,4 +8,4 @@ Lecture
 
 Resources
 : [Kotlin Playground](https://developer.android.com/training/kotlinplayground)
-  : [**HW 0 Released**](#){: .label .label-green }
+  : [**HW 0 Released**](https://cis1950android.github.io/%5Chomework0){: .label .label-green }

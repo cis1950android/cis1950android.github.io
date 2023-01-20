@@ -15,9 +15,9 @@ The game you are making is a Rock, Paper, Scissors! 2-player game. Each player s
 
 ## **Getting Started**
 
-Before anything, make sure to check our [Kotlin Style Guide](https://cis1950android.github.io/styleguide/), as there will be points in each homework for style (5%). Style is very important and we want to make sure everyone is writing concise and consistent  code.
+Before anything, make sure to check our [Kotlin Style Guide](https://cis1950android.github.io/styleguide/), as there will be points in each homework for style (5%). Style is very important and we want to make sure everyone is writing concise and consistent code.
 
-Don't worry, you're not starting from scratch. Instead, you will be given a starter code (check setup section) in which you will go through a bunch of steps marked by the keyword _TODO_, in which you will be either completing missing code or writing functions.
+Now that you got this out of the way, don't worry, you're not starting your code from scratch. Instead, you will be given a starter code (check setup section) in which you will go through a bunch of steps marked by the keyword _TODO_, in which you will be either completing missing code or writing functions.
 
  It is **very very highly recommended to go through them in the numerical order provided**. This will make your coding journey more coherent and enjoyable. You will notice that _TODO 12_ is placed in the middle of previous _TODO_ items, just skip it and get back to it after finishing _TODO 11_
 
