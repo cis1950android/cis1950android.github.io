@@ -33,7 +33,7 @@ For the final project, we will keep the deadline firm for now and assume no exte
 
 ### Collaboration
 
-Homework assignments are to be completed **individually**. No code should ever be shared/copied among students, but you are free to discuss high-level ideas and request group office hours as well. The class is very hands-on and it is designed so that you can learn without ever needing to cheat. You can have our word for it. You have plenty of office hours, unlimited resources online that you can consult without directly copying code. Note: ignorants of this public policy will not be excused in case of academic integrity violations.
+Homework assignments are to be completed **individually**. No code should ever be shared/copied among students, but you are free to discuss high-level ideas and request group office hours as well. The class is very hands-on and it is designed so that you can learn without ever needing to cheat. You can have our word for it. You have plenty of office hours, unlimited resources online that you can consult without directly copying code. Note: ignorants of this public policy will not be excused in case of academic integrity violations. Any cases of plagiarism will not be tolerated, and the Penn office of student conduct will be interfering.
 
 
 ### Grading 
