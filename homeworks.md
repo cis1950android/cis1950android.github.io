@@ -13,7 +13,9 @@ In this homework, you will familiarize yourself with Kotlin & Android Studio bas
 
 The game you are making is a Rock, Paper, Scissors! 2-player game. Each player selects one option of the three and submits it. Then, the other player gets their turn and submits. The game either ends with one player winning or a draw.
 
-## **Get Started**
+## **Getting Started**
+
+Before anything, make sure to check our [Kotlin Style Guide](https://cis1950android.github.io/styleguide/), as there will be points in each homework for style (5%). Style is very important and we want to make sure everyone is writing concise and consistent  code.
 
 Don't worry, you're not starting from scratch. Instead, you will be given a starter code (check setup section) in which you will go through a bunch of steps marked by the keyword _TODO_, in which you will be either completing missing code or writing functions.
 
