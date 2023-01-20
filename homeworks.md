@@ -45,3 +45,29 @@ Your extra credit task is to be as quirky, funny, and/or creative as you can. Du
 ## **Submission**
 
 Export the project into a .zip file and submit to [gradescope](https://www.gradescope.com/courses/480677) by **DEADLINE: Friday 3rd of February, 11:59 pm**
+
+## **Grading Rubric**
+
+### **Compiling & Running (20pts)**
+
+- Style (5pts)
+    - 5 → all good
+    - 2.5 → minor mistakes (up to 3 style errors)
+    - 0 → >3 style errors
+- App compiles correctly (5pts)
+- App runs smoothly without visual/logical bugs (10pts)
+
+### **TODO Items (80pts)**
+
+- (1) - (3pts)
+- (2) - (3pts)
+- (3) - (4pts)
+- (4) - (16pts)
+- (5) - (6pts)
+- (6) - (2pts)
+- (7) - (5pts)
+- (8) - (8pts)
+- (9) - (4pts)
+- (10) - (2pts + Extra Credit: 2pts)
+- (11) - (25pts)
+- (12) - (2pts)
