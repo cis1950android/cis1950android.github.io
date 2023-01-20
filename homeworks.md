@@ -46,7 +46,7 @@ Your extra credit task is to be as quirky, funny, and/or creative as you can. Du
 
 Export the project into a .zip file and submit to [gradescope](https://www.gradescope.com/courses/480677) by **DEADLINE: Friday 3rd of February, 11:59 pm**
 
-## **Grading Rubric**
+## **Grading Breakdown**
 
 ### **Compiling & Running (20pts)**
 
