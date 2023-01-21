@@ -3,7 +3,8 @@ title: Week 5 - Feb 16
 ---
 
 Lecture
-: App Architecture Part 1
+: App Architecture (MVVM) - Slides
+  : In-class Coding
 
 Resources
 : (...)
