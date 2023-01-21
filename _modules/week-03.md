@@ -8,3 +8,5 @@ Lecture
 
 Resources
 : (...)
+  : **HW 0 Due Friday** {: .label .label-red }
+  : **HW 1 Released**
