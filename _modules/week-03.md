@@ -7,7 +7,7 @@ Lecture
   : In-class Coding: [AboutMe](https://canvas.upenn.edu/courses/1703225/files/folder/Live%20Coding?preview=119077895), [MyInstagram](https://canvas.upenn.edu/courses/1703225/files/folder/Live%20Coding?preview=119077870)
 
 Resources
-: [**ViewBinding Docs**](https://developer.android.com/topic/libraries/view-binding)
+: [ViewBinding Docs](https://developer.android.com/topic/libraries/view-binding)
   : **HW 0 Due Friday**{: .label .label-red }
 : [SVG Icons](https://uxwing.com/)
-  : **HW 1 Released**{: .label .label-green }
+  : [**HW 1 Released**](https://cis1950android.github.io/%5Chomework1){: .label .label-green }

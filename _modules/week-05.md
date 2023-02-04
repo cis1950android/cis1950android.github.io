@@ -3,7 +3,7 @@ title: Week 5 - Feb 16
 ---
 
 Lecture
-: App Architecture (MVVM) - Slides
+: App Navigation (multi-screen apps) Pt.2 - Slides
   : In-class Coding
 
 Resources
