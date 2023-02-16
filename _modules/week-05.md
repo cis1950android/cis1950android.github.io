@@ -8,5 +8,7 @@ Lecture
 
 Resources
 : [Menus](https://developer.android.com/develop/ui/views/components/menus)
+  : **HW 1 Due Friday**{: .label .label-red }
 : [Safe Args](https://developer.android.com/guide/navigation/navigation-pass-data)
+  : [**HW 2 Released**](https://cis1950android.github.io/%5Chomework2){: .label .label-green }
 : [Intents](https://developer.android.com/guide/components/intents-filters)
