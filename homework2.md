@@ -1,3 +1,10 @@
+---
+layout: default
+title: Homework 2
+nav_order: 8
+permalink: \homework2
+---
+
 # **Homework 2: Food Ordering**
 
 ## **Introduction & App Overview**
