@@ -8,3 +8,4 @@ Lecture
 
 Resources
 : (...)
+  : **HW 4 Due Friday**{: .label .label-red }
