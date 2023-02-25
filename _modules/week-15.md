@@ -7,4 +7,4 @@ Lecture
 
 Resources
 : (...)
-  : **Final Project Demo Day** {: .label .label-red }
+  : **Final Project Demo Day**{: .label .label-red }
