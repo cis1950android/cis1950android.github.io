@@ -60,7 +60,7 @@ Also note that you will find it helpful to use Safe Args to pass the selected fl
 
 The date screen allows user to pick the pickup date for their order. It contains the following elements:
 
-- a radio buttons group for the pickup date. The first pickup date should cost more, meaning that if the user chooses the closest date, the displayed price should be higher than other dates. It is okay to hard-code the options for the dates, and we will assume that the first radio button is the closest date with the higher price. You will be given the option to make it dynamic as an extra credit.
+- a radio button group for the pickup date. The first pickup date should cost more, meaning that if the user chooses the closest date, the displayed price should be higher than other dates. It is okay to hard-code the options for the dates, and we will assume that the first radio button is the closest date with the higher price. You will be given the option to make it dynamic as an extra credit.
 - a button to cancel the order, which should navigate to Home Screen
 - a button to continue the order, which navigates to the next screen: Order Summary Screen.
 
@@ -70,9 +70,9 @@ Again, make sure to pass the necessary information to the next screen using Safe
 
 The order summary screen displays all the choices that the user made so far: quantity of cupcakes, flavor, pickup date, and total price. In addition, there should be a cancel button that takes you back to Home Screen, and a share button that uses implicit intents to share the total order as a text form. You may find it useful to check the live coding from Lecture 5 - App Navigation Pt.2 to get a refresh on how to use implicit intents.
 
-## **Extra Credit**
+## **Extra Credit (10 pts)** 
 
-In the Date Screen, instead of hardcoding the dates, let the app use the phone system's date to retrieve today's date (and the following 2-3 days) and use them dynamically in the radio button group. That way your app is updated and easy to use any day of the year!s
+In the Date Screen, instead of hardcoding the dates, let the app use the phone system's date to retrieve today's date (and the following 2-3 days) and use them dynamically in the radio button group. That way your app is updated and easy to use any day of the year!
 
 ## **Submission**
 
