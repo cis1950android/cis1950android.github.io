@@ -139,6 +139,12 @@ Section("CIS-9950-001", "O", "Dissertation", "Spring 2023", "DIS")
 ```
 Please use this fake list and avoid creating your own. Feel free to try and add other data to it, but do not modify the given data, as it has been curated to be used for grading to cover all test cases.
 
+### **Notes on Code Design & Architecture**
+
+- Make sure you use **ViewBinding** and limit the use of `findViewById()` (ask on Ed when unsure)
+- You must implement the app using the MVVM (Model-View-ViewModel) architecture. If your code is not modular, e.g. contains data in the UI controller, you will lose a lot of points.. and more importantly you will have written bad code :( 
+- Feel free to implement the RecyclerView directly into `MainActivity` without using fragments. You might have to switch the design a bit in HW4, but that's not to worry about for now.
+
 ## **Extra Credit: RV Item Design**
  A huge part of a good looking RecyclerView is good item design. So, on Thursday March 30th, the lecture after this homework is due, we will have an in-class voting on each of your `xml` designs for your RecyclerView item. The top design will get `10 pts` extra, second place gets `7 pts`, and third gets `5 pts`. 
 
