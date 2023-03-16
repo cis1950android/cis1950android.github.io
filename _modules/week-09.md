@@ -7,5 +7,5 @@ Lecture
   : In-class Coding
 
 Resources
-: (...)
+: [Livecoding Notes](https://github.com/cis1950android/livecoding-notes/blob/main/README.md)
 
