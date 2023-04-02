@@ -6,4 +6,4 @@ Lecture
 : Software Design Stages - Workshop
 
 Resources
-: [Project Milestone 1 Released](#)
+: [Project Milestone 1](#)
