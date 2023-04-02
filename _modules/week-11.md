@@ -3,8 +3,7 @@ title: Week 11 - Mar 30
 ---
 
 Lecture
-: Bonus Topic TBD - Slides
-  : In-class Coding
+: Software Design Stages - Workshop
 
 Resources
-: (...)
+: [Project Milestone 1 Released](#)

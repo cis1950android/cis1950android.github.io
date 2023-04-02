@@ -3,8 +3,8 @@ title: Week 13 - Apr 13
 ---
 
 Lecture
-: Bonus Topic TBD - Slides
-  : In-class Coding
+: Milestone 1 Critique Session
 
 Resources
 : (...)
+  : **Milestone 1 Due Friday**{: .label .label-red }

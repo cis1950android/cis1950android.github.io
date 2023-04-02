@@ -35,14 +35,14 @@ schedule:
         location: Levine 501 Bump Space
   - name: Wednesday
   - name: Thursday
-    events:
-      - name: Lecture
-        start: 3:30 PM
-        end: 5:00 PM
-        location: Towne 315
-      - name: Ali Office Hours
-        start: 5:30 PM
-        end: 7:30 PM
-        location: Levine 612
+  #   events:
+  #     - name: Lecture
+  #       start: 3:30 PM
+  #       end: 5:00 PM
+  #       location: Towne 315
+  #     - name: Ali Office Hours
+  #       start: 5:30 PM
+  #       end: 7:30 PM
+  #       location: Levine 612
   - name: Friday
 ---
