@@ -78,7 +78,7 @@ Use a tool such as **Lucidchart** or **Draw.io** (or draw by hand if you prefer)
 
 ## **Submission**
 
-Submit the following to canvas, as part of **one publicly accessible** Google Docs document by **Friday April 14th, 11:59pm**:
+Submit the following to canvas, as part of **one publicly accessible** Google Docs document by **Friday April 14th, 11:59pm** (one submission per group):
  
 1. [Stage 1 - User Stories]
     * your app's target audience group (user persona) along with a short paragraph describing your audience in relation to your service
