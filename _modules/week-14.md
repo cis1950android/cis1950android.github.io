@@ -7,3 +7,5 @@ Lecture
 
 Resources
 : (...)
+  : **Final Project Due Wednesday 26th**{: .label .label-red }
+
