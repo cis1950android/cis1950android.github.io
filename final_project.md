@@ -55,6 +55,12 @@ If you have a group, skip step 1
 - 35% - Code (Architecture & Navigation)
 - 40% - Final Demo
 
+## **Submission**
+
+Submit your code by **Wednesday 4/26 11:59pm** to canvas. This will be the final version of your code that you will use during the demo.
+
 ## **Final Demo**
 
-The final demo for the projet will be on **Thursday 4/27**
+The demo will happen over zoom. You will present your work as a group (app & code walkthrough), followed by a Q&A from the staff. Please note that you will be asked to download your code from canvas to ensure you use the code finalized by the submission deadline.
+
+Please book an appointment for the final project between April 27th and April 30th through this [link](https://calendly.com/alikrema/cis1950-final-project-demo-day?month=2023-04) **by Wednesday 4/12 @ 11:59pm**. Groups that do not book an appointment will be assigned a slot based on the staff's availability.
