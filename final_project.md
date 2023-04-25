@@ -50,9 +50,8 @@ If you have a group, skip step 1
 
 ## **Grade Breakdown**
 - 5% - Code Style
-- 5% - Group feedback form
 - 15% - Milestone 1
-- 35% - Code (Architecture & Navigation)
+- 40% - Code (Architecture & Navigation)
 - 40% - Final Demo
 
 ## **Submission**
