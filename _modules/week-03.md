@@ -3,8 +3,8 @@ title: Week 3 - Feb 2
 ---
 
 Lecture
-: UI Design Part 2 - [Slides](https://canvas.upenn.edu/courses/1703225/files/folder/Lecture%20Slides?preview=119077964), [ViewBinding Notes](https://canvas.upenn.edu/courses/1703225/files/folder/Lecture%20Slides?preview=119077941)
-  : In-class Coding: [AboutMe](https://canvas.upenn.edu/courses/1703225/files/folder/Live%20Coding?preview=119077895), [MyInstagram](https://canvas.upenn.edu/courses/1703225/files/folder/Live%20Coding?preview=119077870)
+: UI Design Part 2 - [Slides](https://drive.google.com/file/d/1DQKA_cIlTMELLHshLU1SOTZsd6muNXxK/view?usp=drive_link), [ViewBinding Notes](https://drive.google.com/file/d/1xbsW3KaahYbIzLRt4AiA441ZCHXLCN0I/view?usp=drive_link)
+  : In-class Coding: [AboutMe](https://drive.google.com/file/d/1JJrDUtEfdWe8GzUbEIwUL9eqMPt6BvVR/view?usp=drive_link), [MyInstagram](https://drive.google.com/file/d/1PTy4EVWLU4atW-1t7jzewiTthroxEIE2/view?usp=drive_link)
 
 Resources
 : [ViewBinding Docs](https://developer.android.com/topic/libraries/view-binding)

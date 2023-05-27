@@ -3,8 +3,8 @@ title: Week 5 - Feb 16
 ---
 
 Lecture
-: App Navigation (multi-screen apps) Pt.2 - [Slides](https://canvas.upenn.edu/courses/1703225/files/folder/Lecture%20Slides?preview=119584277), [Primer](https://canvas.upenn.edu/courses/1703225/files/folder/Lecture%20Slides?preview=119584311)
-  : In-class Coding - [Starter](https://canvas.upenn.edu/courses/1703225/files/folder/Live%20Coding?preview=119575832), [Final Code](https://canvas.upenn.edu/courses/1703225/files/folder/Live%20Coding?preview=119584376)
+: App Navigation (multi-screen apps) Pt.2 - [Slides](https://drive.google.com/file/d/1Ho1_Jwwnc4C0KXxqpVacMr6Bu7WIAje0/view?usp=drive_link), [Primer](https://drive.google.com/file/d/1Zfx-4rFQdJBSOuuL9fdaGVIbFCNCl2A9/view?usp=drive_link)
+  : In-class Coding - [Starter](https://drive.google.com/file/d/1S6Ii-BVgEeL5W7r3g958yk0lNQqRriEV/view?usp=drive_link), [Final Code](https://drive.google.com/file/d/1EW64Ld2QiCUVWb3gWVTJBTRY9NaBkewP/view?usp=drive_link)
 
 Resources
 : [Menus](https://developer.android.com/develop/ui/views/components/menus)

@@ -3,8 +3,8 @@ title: Week 2 - Jan 26
 ---
 
 Lecture
-: UI Design Part 1 - [Slides](https://canvas.upenn.edu/courses/1703225/files/folder/Lecture%20Slides?preview=118823581)
-  : [In-class Coding](https://canvas.upenn.edu/courses/1703225/files/folder/Live%20Coding?preview=118823598)
+: UI Design Part 1 - [Slides](https://drive.google.com/file/d/1avn9ccSKPaI9eGt0DdKa4xLssa6IRSvD/view?usp=drive_link)
+  : [In-class Coding](https://drive.google.com/file/d/1JfpAEmZlyp7S3GjSq8TsxAXFOa6xGe5g/view?usp=drive_link)
 
 Resources
-: [View Group Hierarchy (iPad Notes)](https://canvas.upenn.edu/courses/1703225/files/folder/Lecture%20Slides?preview=118823579)
+: [Lecture Primer (Notes)](https://drive.google.com/file/d/1k1hG5kaytBdNlPrHs7L2HknkFLuNIrUN/view?usp=drive_link)

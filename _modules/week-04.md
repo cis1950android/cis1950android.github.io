@@ -3,8 +3,8 @@ title: Week 4 - Feb 9
 ---
 
 Lecture
-: App Navigation (multi-screen apps) Pt.1 - [Slides](https://canvas.upenn.edu/courses/1703225/files/folder/Lecture%20Slides?preview=119354273)
-  : In-class Coding - [Starter](https://canvas.upenn.edu/courses/1703225/files/folder/Live%20Coding?preview=119348228), [Final Code](https://canvas.upenn.edu/courses/1703225/files/folder/Live%20Coding?preview=119354278)
+: App Navigation (multi-screen apps) Pt.1 - [Slides](https://drive.google.com/file/d/11_94TfhJVLwnCh1IKQF-tl3_jfegccbR/view?usp=drive_link)
+  : In-class Coding - [Starter](https://drive.google.com/file/d/1OFL2s6iHI249s7-dKZZexfc57U2hfUQl/view?usp=drive_link), [Final Code](https://drive.google.com/file/d/1Bik2FtNDbsvfAi8PbVuReoZTDO_-XCS5/view?usp=drive_link)
 
 Resources
 : [Fragments](https://developer.android.com/guide/fragments)

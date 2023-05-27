@@ -3,7 +3,7 @@ title: Week 10 - Mar 23
 ---
 
 Lecture
-: Connecting to the Internet Pt.2 - [Slides](https://canvas.upenn.edu/courses/1703225/files/folder/Lecture%20Slides?preview=120549703)
+: Connecting to the Internet Pt.2 - [Slides](https://drive.google.com/file/d/1zkuCz7b7aVopK_Z63Hxj5qqHH2H8Fwdp/view?usp=drive_link)
 
 Resources
 : [Livecoding Notes](https://github.com/cis1950android/livecoding-notes/blob/main/README.md)

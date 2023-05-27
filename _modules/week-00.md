@@ -3,8 +3,8 @@ title: Week 0 - Jan 12
 ---
 
 Lecture
-: Introduction to Android Studio - [Slides](https://canvas.upenn.edu/courses/1703225/files/folder/Lecture%20Slides?)
-  : [In-class Coding](https://canvas.upenn.edu/courses/1703225/files/folder/Live%20Coding)
+: Introduction to Android Studio - [Slides](https://drive.google.com/file/d/1HbzVv7mt2ZEaZUw5dsUIFm4VTAhKWNU_/view?usp=drive_link)
+  : [In-class Coding](https://drive.google.com/file/d/1wFVyJDTPEHuDZYRNDi2myrGq7qCWDayp/view?usp=drive_link)
 
 Resources
 : [Install Android Studio - Official Docs](https://developer.android.com/codelabs/basic-android-kotlin-training-install-android-studio)
